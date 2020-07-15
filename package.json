@@ -54,6 +54,6 @@
   },
   "dependencies": {
     "fabric": "3.6.0",
-    "tui-image-editor": "git+https://github.com/ljkim-skipper/image-editor-based-tui.git"
+    "tui-image-editor": "^3.8.0"
   }
 }
